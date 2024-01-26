@@ -4,3 +4,4 @@
 • Hall effect and telegraphequations being shown with 2D modelling animation
 • 3D Microresistor model 
 • Electrochemical and microinductor models incomplete and in progress
+Tasks from: Muktiphysics Modelling using COMSOL 5, Roger W.Pryor
