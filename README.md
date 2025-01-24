@@ -11,3 +11,7 @@ FullChipSim.son: Sonnet simulation of reflection type resonator connected to a t
 Munich 2.0_W1.ipynb: Chip Design
 
 <img width="200" alt="Screenshot 2025-01-24 at 7 20 06 AM" src="https://github.com/user-attachments/assets/5dd182ca-0c4c-4355-bf27-6eea7d3ffb39" />
+
+Notch5.zon: Sonnet simulation of Notch Type Resonators
+
+<img width="200" alt="Screenshot 2025-01-24 at 7 41 39 AM" src="https://github.com/user-attachments/assets/feb18067-c483-4b35-a058-53e7e5373ca1" />
