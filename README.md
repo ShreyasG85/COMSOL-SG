@@ -2,7 +2,6 @@ CrossCapacitanceESPhysics.mph: COMSOL simulation of Cross Capacitance (Transmon 
 
 CrossCapacitance_ECPhysics.mph: COMSOL simulation of Cross Capacitance (Transmon Island) using electric current module
 
-![9C19204C-1566-4300-996D-7F7E070C21CA](https://github.com/user-attachments/assets/a3af5210-2934-4feb-8728-478ada9071b5)
 
 
 LowPassFilter.son: Sonnet simulation of a Superconducting CPW Low Pass Filter
@@ -11,6 +10,8 @@ LowPassFilter.son: Sonnet simulation of a Superconducting CPW Low Pass Filter
 
 
 FullChipSim.son: Sonnet simulation of reflection type resonator connected to a tunable inductance device (Graphene flake) terminated by ground contact and modulated by DC Leads (Low Pass Filter).The primary objective is to understand how sensitive enough reflection resonators are to track modulation of the inductance of Graphene flake, by detecting the resonance frequency variation of the resonator through simulations.
+
+<img width="300" height="500" alt="Screenshot 2025-11-04 at 10 07 26" src="https://github.com/user-attachments/assets/ebdd98c5-871b-46ca-ba79-4ac5f5e8f992" />
 
 Munich 2.0_W1.ipynb: Chip Design
 
